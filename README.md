@@ -14,13 +14,11 @@ https://anduhrooo.github.io/code-refactor-uci/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Below are screenshots of the website that was refactored:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![top of refactored website](assets/images/screenshot-page-top.png)
 
-    ![top of refactored website](assets/images/screenshot-page-top.png)
-
-    ![bottom of refactored website](assets/images/screenshot-page-bottom.png)
+![bottom of refactored website](assets/images/screenshot-page-bottom.png)
 
 
 ## Credits
